@@ -1,0 +1,15 @@
+.titulo{
+    text-align:center;
+    font-weight: bold;
+}
+.whatsapp{
+    color: rgb(16, 199, 16);
+    font-size: 50px;
+}
+.facebook{
+    font-size: 50px;
+}
+.foter{
+    background-color: rgba(0, 0, 0, 0.897);
+    color: white;
+}
